@@ -1,2 +1,3 @@
 # FastApi_Docker_App
-Contains work related to Containerizing NLP based Web application using FastApi 
+Contains work related to Containerizing NLP based Web application using FastApi - my learning from OReilly platform - Noah Gift Author
+
