@@ -1,1 +1,6 @@
-Fastapi[all]
+fastapi[all]==0.66.0
+onnx==1.9.0
+onnxruntime==1.8.1
+torch==1.9.0
+transformers==4.8.2
+
