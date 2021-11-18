@@ -8,3 +8,6 @@ move the onnx file to location webapp/ folder
 Note2:
 Docker image might require 2GB for up & running. Ensure you have enough space
 
+Docker command to build image:
+docker build -t balajivenky06/fastapi-demo .
+
